@@ -1,0 +1,40 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 20/02/2014 08:23:40                #
+#                                              #
+### Standard xDev Config - Layout v1.5 #########
+-->
+<project>
+   <option compiler="471617">
+   <option outputname="GERARELAT">
+   <option targettype="EXE">
+   <option outputpath="">
+   <option root="($)">
+   <option runpath="">
+   <option runparams="">
+   <option pathch="">
+   <option pathlib="">
+   <option pathobj="">
+   <option pathtooutput="">
+   <option defines="">
+   <option webframework="">
+   <option webrootdir="">
+   <option documentroot="">
+   <option custombrowser="">
+   <option makeincfile="Não">
+   <option taskprepare="">
+   <option taskfinalize="">
+   <option taskgroupprepare="">
+   <option taskgroupfinalize="">
+
+   <compilerparam name="FiveWin32.xCompiler">
+      <option presetsname="471617">
+   </compilerparam>
+
+   <unit filename="DEMO_FWH.prg" main="true" compile="Sim">
+   <unit filename="FastRepH.prg" compile="Sim">
+   <unit filename="C:\xhb804\lib\pcrepos.lib" compile="Sim">
+   <unit filename="C:\xhb804\lib\dbfcdx.lib" compile="Sim">
+   <unit filename="RES\GERARELAT.res" compile="Sim">
+</project>

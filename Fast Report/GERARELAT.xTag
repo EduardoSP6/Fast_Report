@@ -1,0 +1,184 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 06/04/2015 16:52:50                #
+#                                              #
+### Standard xDev TagList - Layout v1.5 ########
+-->
+<taglist>
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="fnDBStruct" args=" " scope="PUBLIC" type="ptFunction" line="2200">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetVersion" args="<aVersion> " scope="PUBLIC" type="ptMethod" line="2165">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetPassword" args="<sPassword> " scope="PUBLIC" type="ptMethod" line="2148">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetName" args="<sName> " scope="PUBLIC" type="ptMethod" line="2136">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetInitString" args="<sInitString> " scope="PUBLIC" type="ptMethod" line="2125">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetDescription" args="<sDescription> " scope="PUBLIC" type="ptMethod" line="2114">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetLastChange" args="<sDateTime> " scope="PUBLIC" type="ptMethod" line="2103">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetCreateDate" args="<sDateTime> " scope="PUBLIC" type="ptMethod" line="2091">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetCompressed" args="<lCompressed> " scope="PUBLIC" type="ptMethod" line="2074">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetAuthor" args="<sAuthor> " scope="PUBLIC" type="ptMethod" line="2063">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="2043">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="Init" args="<oManager> " scope="PUBLIC" type="ptMethod" line="2033">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetRemoveReportOnClose" args="<lRemove> " scope="PUBLIC" type="ptMethod" line="1991">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetModal" args="<lModal> " scope="PUBLIC" type="ptMethod" line="1978">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetPictureCacheInFile" args="<lCache> " scope="PUBLIC" type="ptMethod" line="1966">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetZoomMode" args="<nZMode> " scope="PUBLIC" type="ptMethod" line="1956">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetZoom" args="<nZoom> " scope="PUBLIC" type="ptMethod" line="1939">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetShowCaptions" args="<lShow> " scope="PUBLIC" type="ptMethod" line="1930">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetOutlineWidth" args="<nWidth> " scope="PUBLIC" type="ptMethod" line="1917">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetOutlineExpand" args="<lExpand> " scope="PUBLIC" type="ptMethod" line="1908">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetOutlineVisible" args="<lVis> " scope="PUBLIC" type="ptMethod" line="1898">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetBounds" args="<nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1888">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetMaximized" args="<lMax> " scope="PUBLIC" type="ptMethod" line="1879">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetDoubleBuffered" args="<lDouble> " scope="PUBLIC" type="ptMethod" line="1870">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetButtons" args="<nButtons> " scope="PUBLIC" type="ptMethod" line="1857">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetAllowEdit" args="<lAllow> " scope="PUBLIC" type="ptMethod" line="1845">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="1820">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="Init" args="<oManager> " scope="PUBLIC" type="ptMethod" line="1810">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="ClearOptions" args=" " scope="PUBLIC" type="ptMethod" line="1763">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetReverse" args="<lReverse> " scope="PUBLIC" type="ptMethod" line="1754">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetShowDialog" args="<lShow> " scope="PUBLIC" type="ptMethod" line="1745">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetPrinter" args="<sPrinter> " scope="PUBLIC" type="ptMethod" line="1720">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetPageNumbers" args="<sParam> " scope="PUBLIC" type="ptMethod" line="1709">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetCollate" args="<lCollate> " scope="PUBLIC" type="ptMethod" line="1699">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="1672">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="Init" args="<oManager> " scope="PUBLIC" type="ptMethod" line="1662">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetPrintPages" args="<nPages> " scope="PUBLIC" type="Inline Method" line="1648">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetCopies" args="<nCopies> " scope="PUBLIC" type="Inline Method" line="1644">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetUseFileCache" args="<lUse> " scope="PUBLIC" type="ptMethod" line="1622">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetTempDir" args="<sDir> " scope="PUBLIC" type="ptMethod" line="1610">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetMaxMemSize" args="<nSize> " scope="PUBLIC" type="ptMethod" line="1600">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetNewSilentMode" args="<nMode> " scope="PUBLIC" type="ptMethod" line="1584">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetSilentMode" args="<lSilent> " scope="PUBLIC" type="ptMethod" line="1572">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetPrintIfEmpty" args="<lPrint> " scope="PUBLIC" type="ptMethod" line="1561">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetDoublePass" args="<lDouble> " scope="PUBLIC" type="ptMethod" line="1551">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetConvertNulls" args="<lConvert> " scope="PUBLIC" type="ptMethod" line="1542">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="1522">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="Init" args="<oManager> " scope="PUBLIC" type="ptMethod" line="1512">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetTabTreeExpanded" args="<nTabTreeViews>, <lExpand> " scope="PUBLIC" type="ptMethod" line="1472">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="InputBox" args="<cCaption>, <cPrompt>, <cDefault> " scope="PUBLIC" type="ptMethod" line="1464">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SendMail" args="<cServer>, <nPort>, <cUserField>, <cPasswordField>, <cFromField>, <cToField>, <cSubjectField>, <cCompanyField>, <cTextField>, <cFileNames> " scope="PUBLIC" type="ptMethod" line="1455">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="PrepareScript" args=" " scope="PUBLIC" type="ptMethod" line="1441">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="GetPropList" args="<cObjName> " scope="PUBLIC" type="ptMethod" line="1434">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="EnumAllObjects" args="<bEnumBlock> " scope="PUBLIC" type="ptMethod" line="1427">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CreateFRObject" args="<cClassName>, <cParent>, <cName>, <nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1421">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="IsObjectExists" args="<cObjName> " scope="PUBLIC" type="ptMethod" line="1417">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="AddPicture" args="<cParent>, <cName>, <cFileName>, <nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1411">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="AddLine" args="<cParent>, <cName>, <nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1405">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="AddMemo" args="<cParent>, <cName>, <cStr>, <nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1399">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="GetGlobalDSList" args=" " scope="PUBLIC" type="ptMethod" line="1392">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="AddGlobalDsToReport" args="<cDataSetName> " scope="PUBLIC" type="ptMethod" line="1388">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="AddBand" args="<cBandName>, <cParentPage>, <nBandType> " scope="PUBLIC" type="ptMethod" line="1384">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="AddPage" args="<cPageName> " scope="PUBLIC" type="ptMethod" line="1379">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="NewReport" args="<cPageName> " scope="PUBLIC" type="ptMethod" line="1374">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="PictureAt" args="<cFileName>, <nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1360">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="LineAt" args="<nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1353">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetManualObjProperty" args="<cObjName>, <cPropName>, <xValue> " scope="PUBLIC" type="ptMethod" line="1346">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="NewPage" args=" " scope="PUBLIC" type="ptMethod" line="1341">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetDefaultFontProperty" args="<cPropName>, <xValue> " scope="PUBLIC" type="ptMethod" line="1334">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="MemoAt" args="<cStr>, <nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1327">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="StartManualBuild" args="<bManualBlock>, <nOrientation>, <nPaperSize>, <nUnits> " scope="PUBLIC" type="ptMethod" line="1317">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetADOConnectPartStr" args="<sFrAlias>, <sKey>, <sValue> " scope="PUBLIC" type="ptMethod" line="1306">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetADOConnectStr" args="<sFrAlias>, <sStr> " scope="PUBLIC" type="ptMethod" line="1296">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="ClearResyncPair" args="<cParentAlias>, <cChildlAlias> " scope="PUBLIC" type="ptMethod" line="1288">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="ClearMasterDetail" args="<cDetailAlias> " scope="PUBLIC" type="ptMethod" line="1278">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="ClearDataSets" args=" " scope="PUBLIC" type="ptMethod" line="1268">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="RemoveDataSet" args="<cFrAlias> " scope="PUBLIC" type="ptMethod" line="1259">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetFieldAliases" args="<cFrAlias>, <cFieldAliases> " scope="PUBLIC" type="ptMethod" line="1250">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="Resync" args="<cFrAlias> " scope="PUBLIC" type="ptMethod" line="1238">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetTxtDataSet" args="<sFrAlias>, <sFileName> " scope="PUBLIC" type="ptMethod" line="1228">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetUserDataSet" args="<sFrAlias>, <sFields>, <bGoTop>, <bSkipPlus1>, <bSkipMinus1>, <bCheckEOF>, <bGetValue> " scope="PUBLIC" type="ptMethod" line="1216">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetResyncPair" args="<cParentAlias>, <cChildlAlias> " scope="PUBLIC" type="ptMethod" line="1204">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetMasterDetail" args="<cMasterAlias>, <cDetailAlias>, <bScopeValue> " scope="PUBLIC" type="ptMethod" line="1189">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetWorkArea" args="<cFrAlias>, <nWorkArea>, <lOem>, <aRangeParams> " scope="PUBLIC" type="ptMethod" line="1169">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="Calc" args="<sExpression> " scope="PUBLIC" type="ptMethod" line="1149">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="GetScriptVar" args="<sName> " scope="PUBLIC" type="ptMethod" line="1137">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetScriptVar" args="<sName>, <xValue> " scope="PUBLIC" type="ptMethod" line="1131">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="DeleteCategory" args="<cCategory> " scope="PUBLIC" type="ptMethod" line="1117">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="DeleteVariable" args="<cName> " scope="PUBLIC" type="ptMethod" line="1108">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="GetVariable" args="<cName> " scope="PUBLIC" type="ptMethod" line="1097">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetVariable" args="<cName>, <xValue> " scope="PUBLIC" type="ptMethod" line="1086">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="AddVariable" args="<cCategory>, <cName>, <xValue> " scope="PUBLIC" type="ptMethod" line="1075">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="AddFunction" args="<cFunction>, <cCategory>, <cDescription> " scope="PUBLIC" type="ptMethod" line="1053">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetEventHandler" args="<cObjectName>, <cPropName>, <bEventHandler> " scope="PUBLIC" type="ptMethod" line="1039">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetObjProperty" args="<cObjectName>, <cPropName>, <cObjToSetName> " scope="PUBLIC" type="ptMethod" line="998">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetProperty" args="<sObjectName>, <sPropName>, <Value> " scope="PUBLIC" type="ptMethod" line="992">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="GetProperty" args="<sObjectName>, <sPropName> " scope="PUBLIC" type="ptMethod" line="986">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="DoExport" args="<cExportObjectName> " scope="PUBLIC" type="ptMethod" line="951">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="GetErrors" args=" " scope="PUBLIC" type="ptMethod" line="933">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="Print" args="<lDialogIsChild> " scope="PUBLIC" type="ptMethod" line="920">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="LoadStyleSheetFromString" args="<cString> " scope="PUBLIC" type="ptMethod" line="908">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="LoadStyleSheet" args="<cFileName> " scope="PUBLIC" type="ptMethod" line="904">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SaveToFPFile" args="<cFileName> " scope="PUBLIC" type="ptMethod" line="895">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="LoadFPFile" args="<cFileName> " scope="PUBLIC" type="ptMethod" line="887">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="Clear" args=" " scope="PUBLIC" type="ptMethod" line="877">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="ClearReports" args=" " scope="PUBLIC" type="ptMethod" line="867">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="RemoveReport" args="<nReport> " scope="PUBLIC" type="ptMethod" line="863">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SelectReport" args="<nReport> " scope="PUBLIC" type="ptMethod" line="858">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="AddReport" args=" " scope="PUBLIC" type="ptMethod" line="853">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetFileName" args="<cFileName> " scope="PUBLIC" type="ptMethod" line="848">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SaveToString" args=" " scope="PUBLIC" type="ptMethod" line="841">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SaveToBlob" args="<nWorkArea>, <cFieldName> " scope="PUBLIC" type="ptMethod" line="833">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SaveToFile" args="<cFileName> " scope="PUBLIC" type="ptMethod" line="824">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="LoadFromString" args="<cString> " scope="PUBLIC" type="ptMethod" line="816">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="LoadFromBlob" args="<nWorkArea>, <cFieldName> " scope="PUBLIC" type="ptMethod" line="807">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="LoadFromResource" args="<xValue> " scope="PUBLIC" type="ptMethod" line="792">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="LoadFromFile" args="<cFileName> " scope="PUBLIC" type="ptMethod" line="783">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="DesignReport" args=" " scope="PUBLIC" type="ptMethod" line="771">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="ShowPreparedReport" args=" " scope="PUBLIC" type="ptMethod" line="760">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="PrepareReport" args="<nNotClear> " scope="PUBLIC" type="ptMethod" line="746">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="ShowReport" args="<nNotClear> " scope="PUBLIC" type="ptMethod" line="734">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetFormatSettings" args="<nSetting>, <xValue> " scope="PUBLIC" type="ptMethod" line="719">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="LoadLangRes" args="<cLangFile> " scope="PUBLIC" type="ptMethod" line="711">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetVisualActions" args="<nAction>, <lTaskListToFalse>, <bBeforeAction>, <bAfterAction> " scope="PUBLIC" type="ptMethod" line="696">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetTitle" args="<cTitle> " scope="PUBLIC" type="ptMethod" line="666">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="SetIcon" args="<xValue> " scope="PUBLIC" type="ptMethod" line="652">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="FrNotifyError" args="<oError> " scope="PUBLIC" type="ptMethod" line="601">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="508">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="DestroyFR" args=" " scope="PUBLIC" type="ptMethod" line="491">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="Init" args="<cOptionalPath>, <lSystemIsOEM> " scope="PUBLIC" type="ptMethod" line="455">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="INITENGINE" args=" " scope="PUBLIC" type="ptFunction" line="184">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="TmpGetWA" args="<area>, <ptr> " scope="PUBLIC" type="ptCFunction" line="177">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_CICCCCCCCC_I" args=" " scope="PUBLIC" type="ptFunction" line="169">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_CIII_I" args=" " scope="PUBLIC" type="ptFunction" line="163">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_III_I" args=" " scope="PUBLIC" type="ptFunction" line="157">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_CCI_I" args=" " scope="PUBLIC" type="ptFunction" line="151">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_CCC_I" args=" " scope="PUBLIC" type="ptFunction" line="145">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_CC_I" args=" " scope="PUBLIC" type="ptFunction" line="139">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_IC_I" args=" " scope="PUBLIC" type="ptFunction" line="133">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_II_I" args=" " scope="PUBLIC" type="ptFunction" line="127">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_C_I" args=" " scope="PUBLIC" type="ptFunction" line="121">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC_I_I" args=" " scope="PUBLIC" type="ptFunction" line="115">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_FUNC__I" args=" " scope="PUBLIC" type="ptFunction" line="109">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_PROC_IIII" args=" " scope="PUBLIC" type="ptFunction" line="102">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_PROC_CCC" args=" " scope="PUBLIC" type="ptFunction" line="95">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_PROC_CC" args=" " scope="PUBLIC" type="ptFunction" line="89">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_PROC_IC" args=" " scope="PUBLIC" type="ptFunction" line="83">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_PROC_C" args=" " scope="PUBLIC" type="ptFunction" line="77">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_PROC_I" args=" " scope="PUBLIC" type="ptFunction" line="71">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="CALL_PROC_" args=" " scope="PUBLIC" type="ptFunction" line="65">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="FRUNLOAD" args=" " scope="PUBLIC" type="ptFunction" line="59">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="GETFRPROCADDRESS" args=" " scope="PUBLIC" type="ptFunction" line="54">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\FastRepH.prg" name="FRLOAD" args=" " scope="PUBLIC" type="ptFunction" line="49">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="ShowProcess" args="<sObjectName> " scope="PUBLIC" type="ptFunction" line="531">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="ShowProgress" args="<x>, <y>, <z> " scope="PUBLIC" type="ptFunction" line="503">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="AllFilesExist" args="<aFiles> " scope="PUBLIC" type="ptFunction" line="490">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="CallUserFunction" args="<FName>, <FParams> " scope="PUBLIC" type="ptFunction" line="476">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="OnExpRelease" args="<aExpList>, <oLbx>, <aDados> " scope="PUBLIC" type="ptFunction" line="466">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="GetExportObject" args=" " scope="PUBLIC" type="ptFunction" line="427">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoSomeCalls" args=" " scope="PUBLIC" type="ptFunction" line="415">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoADO" args=" " scope="PUBLIC" type="ptFunction" line="406">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoWAUserDS" args=" " scope="PUBLIC" type="ptFunction" line="386">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="GetDSValue" args="<cField> " scope="PUBLIC" type="ptFunction" line="364">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoUserDS" args=" " scope="PUBLIC" type="ptFunction" line="348">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoMemPict" args=" " scope="PUBLIC" type="ptFunction" line="335">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoManualReport" args=" " scope="PUBLIC" type="ptFunction" line="327">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="MyManualReport" args=" " scope="PUBLIC" type="ptFunction" line="306">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoInFR_MoreComplex" args=" " scope="PUBLIC" type="ptFunction" line="297">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoMoreComplex" args=" " scope="PUBLIC" type="ptFunction" line="274">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoSimpleGroup" args=" " scope="PUBLIC" type="ptFunction" line="262">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoSimpleList" args=" " scope="PUBLIC" type="ptFunction" line="250">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="DoFrAction" args="<cFileName>, <lPrepared> " scope="PUBLIC" type="ptFunction" line="179">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="UnloadFr" args=" " scope="PUBLIC" type="ptFunction" line="172">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="GenerateItems" args=" " scope="PUBLIC" type="ptFunction" line="158">
+   <tag filename="C:\Sistemas Fivewin\Fast Report\DEMO_FWH.prg" name="Main" args=" " scope="PUBLIC" type="ptFunction" line="18">
+</taglist>

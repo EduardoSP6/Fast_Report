@@ -1,0 +1,31 @@
+-I"C:\Bcc56\include;C:\xhb804\include;C:\fwh804\include;;" +
+-L"C:\Bcc56\lib;C:\Bcc56\lib\psdk;C:\xhb804\lib;C:\fwh804\lib;;;;;" +
+-aa +
+-Gn -Tpe -s +
+c0w32.obj +    
+"C:\Sistemas Fivewin\Fast Report\DEMO_FWH.obj"  + 
+"C:\Sistemas Fivewin\Fast Report\FastRepH.obj", + 
+"C:\Sistemas Fivewin\Fast Report\GERARELAT.EXE", +   
+"C:\Sistemas Fivewin\Fast Report\GERARELAT.map", +   
+FiveHx.lib FiveHC.lib +
+rtl.lib +      
+vm.lib +       
+gtgui.lib + 
+lang.lib +     
+macro.lib +    
+rdd.lib +      
+codepage.lib + 
+dbfntx.lib +   
+dbffpt.lib +   
+hbsix.lib +    
+common.lib +   
+pp.lib +       
+"C:\xhb804\lib\pcrepos.lib" +  
+"C:\xhb804\lib\dbfcdx.lib" +  
+cw32.lib +     
+import32.lib + 
+nddeapi.lib +
+iphlpapi.lib +
+rasapi32.lib +
+,
+"C:\Sistemas Fivewin\Fast Report\RES\GERARELAT.res" + 
