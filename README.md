@@ -1,2 +1,0 @@
-# xHarbour
-xHarbour Projects
